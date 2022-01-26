@@ -1,6 +1,6 @@
 [
   {
-    "ProfileName": "D90064 - jQuery UI",
+    "ProfileName": "D90004 - .NET Framework",
     "Name": "",
     "Enabled": true,
     "Scanner": 2,
@@ -10,7 +10,7 @@
     "UrlEncode": false,
     "CharsToUrlEncode": "",
     "Grep": [
-      "true,Or,jQuery.UI.*(?!(1\\.13\\.[0-9]))\\d+.\\d+.\\d+"
+      "true,,Microsoft.\\.NET.Framework.Version\\:\\d+.\\d+.\\d+"
     ],
     "Tags": [
       "All"
@@ -42,7 +42,7 @@
     "payloadPosition": 0,
     "payloadsFile": "",
     "grepsFile": "",
-    "IssueName": "D90064 - jQuery UI",
+    "IssueName": "D90004 - .NET Framework",
     "IssueSeverity": "Medium",
     "IssueConfidence": "Certain",
     "IssueDetail": "",
